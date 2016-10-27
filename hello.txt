@@ -1,3 +1,7 @@
 Hello git!!
 Wellcome
+<<<<<<< HEAD
 mama mila ramu
+=======
+Mister john doe
+>>>>>>> 74d656d584f8277520a34f7a328426a0bbcc6f17
